@@ -9,7 +9,7 @@ description: 给不看版的人一个简洁
 服务器版本为最新稳定版\(实际与java服务器版本同步，因PE与PC同步后版本\)
 
 {% hint style="success" %}
-mc.vlssu.com
+mc.vlssu.cn
 
 * 端口默认即可（19132）
 {% endhint %}
