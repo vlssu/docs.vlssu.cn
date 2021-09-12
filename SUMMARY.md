@@ -8,7 +8,7 @@
 
 * [JAVA进服地址](summary/java-summary.md)
 * [PE/BE/基岩版进服地址](summary/pe-summary/README.md)
-  * [基岩版进服直链](minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn)
+  * [基岩版进服直链](minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132)
 * [各服文档](summary/server/README.md)
   * [登陆大厅](summary/server/login.md)
   * [生存服务器](summary/server/survive.md)
