@@ -10,13 +10,13 @@ description: 演示在 Minecraft 客户端中使用 Yggdrasil
 首先你得是正版，然后再皮肤站绑定正版，如发现进不去，可以去皮肤站的[个人资料](https://skin.vlssu.com/user/profile)右上角进行更新**UUID**
 {% endhint %}
 
-![An image](https://i.loli.net/2020/02/26/tAN2JZTHBOl3k5F.png)
+![](../../.gitbook/assets/h1b-b5usdthqh7-usdk9w_ol-1.png)
 
 {% hint style="success" %}
 需要先下载`authlib-injector.jar`[【点击下载】](https://authlib-injector.yushi.moe/~download/)并放在你的游戏文件的根目录也就是`.minecraft`文件夹里（实际随你放哪）
 {% endhint %}
 
-![An image](https://i.loli.net/2020/02/26/TB2Hsxow3KjOuqD.png)
+![](../../.gitbook/assets/fnuc00nk_mlxbxip03bgns.png)
 
 {% hint style="warning" %}
 然后打开正版启动器的JVM参数进行设置

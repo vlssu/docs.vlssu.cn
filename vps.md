@@ -2,7 +2,7 @@
 
 ## [\#](vps.md#服务器价格表) 服务器价格表 <a id="&#x670D;&#x52A1;&#x5668;&#x4EF7;&#x683C;&#x8868;"></a>
 
-![&#x670D;&#x52A1;&#x5668;&#x4EF7;&#x683C;&#x8868;](https://i.loli.net/2021/05/04/z8HNwhUCRPvDtkm.png)
+![](.gitbook/assets/sp8-w-gpa4hvmv1j1q82-4.png)
 
 ## 你可以通过[**\[QQ咨询\]**](https://wpa.qq.com/msgrd?v=3&uin=1305300729&site)来联系我购买 <a id="&#x4F60;&#x53EF;&#x4EE5;&#x901A;&#x8FC7;-qq&#x54A8;&#x8BE2;-&#x6765;&#x8054;&#x7CFB;&#x6211;&#x8D2D;&#x4E70;"></a>
 
