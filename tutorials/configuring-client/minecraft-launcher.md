@@ -22,6 +22,8 @@ description: 演示在 Minecraft 客户端中使用 Yggdrasil
 然后打开正版启动器的JVM参数进行设置
 {% endhint %}
 
+![](../../.gitbook/assets/_-4jhu-mh-u5y3usdl1usd-vfy1.png)
+
 {% tabs %}
 {% tab title="设置参数" %}
 这个参数中的`{绝对位置\authlib-injector.jar}`包括大括号一起替换成你的`authlib-injector.jar`绝对位置
