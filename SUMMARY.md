@@ -24,6 +24,7 @@
   * [正版启动器](tutorials/configuring-client/minecraft-launcher.md)
   * [HMCL启动器](tutorials/configuring-client/hmcl.md)
   * [PCL启动器](tutorials/configuring-client/pcl.md)
+  * [PE/BE/基岩版进入方法](tutorials/configuring-client/pe.md)
 
 ---
 
