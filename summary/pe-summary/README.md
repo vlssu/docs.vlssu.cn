@@ -8,11 +8,7 @@ description: 给不看版的人一个简洁
 
 服务器版本为最新稳定版\(实际与java服务器版本同步，因PE与PC同步后版本\)
 
-{% hint style="warning" %}
-## 进服前请先注册皮肤站否则无法进入
-{% endhint %}
-
-{% page-ref page="../../tutorials/reg-skin-station.md" %}
+#### 进服前请先注册皮肤站否则无法进入
 
 {% hint style="success" %}
 mc.vlssu.cn
