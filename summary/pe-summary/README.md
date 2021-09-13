@@ -19,8 +19,6 @@ mc.vlssu.cn
 {% page-ref page="../../tutorials/configuring-client/pe.md" %}
 
 {% hint style="info" %}
-
-
 由于个人技术问题，服务器的技术支持有限，所以我们只能尽量做好  
 此服务器是直通JAVA服务器的，所以，如果电脑不在旁边也可以来到我们服务器玩哦
 
