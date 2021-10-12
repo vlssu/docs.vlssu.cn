@@ -1,12 +1,12 @@
 # VPS服务器购买
 
-## [\#](vps.md#服务器价格表) 服务器价格表 <a id="&#x670D;&#x52A1;&#x5668;&#x4EF7;&#x683C;&#x8868;"></a>
+## [#](vps.md#服务器价格表) 服务器价格表 <a href="fu-wu-qi-jia-ge-biao" id="fu-wu-qi-jia-ge-biao"></a>
 
-![](.gitbook/assets/sp8-w-gpa4hvmv1j1q82-4.png)
+![](.gitbook/assets/SP8\`W{GPA4HVMV1J1Q82{\[4.png)
 
-## 你可以通过[**\[QQ咨询\]**](https://wpa.qq.com/msgrd?v=3&uin=1305300729&site)来联系我购买 <a id="&#x4F60;&#x53EF;&#x4EE5;&#x901A;&#x8FC7;-qq&#x54A8;&#x8BE2;-&#x6765;&#x8054;&#x7CFB;&#x6211;&#x8D2D;&#x4E70;"></a>
+## 你可以通过[**\[QQ咨询\]**](https://wpa.qq.com/msgrd?v=3\&uin=1305300729\&site)来联系我购买 <a href="ni-ke-yi-tong-guo-qq-zi-xun-lai-lian-xi-wo-gou-mai" id="ni-ke-yi-tong-guo-qq-zi-xun-lai-lian-xi-wo-gou-mai"></a>
 
-## 服务器购买后附赠内容 <a id="&#x670D;&#x52A1;&#x5668;&#x8D2D;&#x4E70;&#x540E;&#x9644;&#x8D60;&#x5185;&#x5BB9;"></a>
+## 服务器购买后附赠内容 <a href="fu-wu-qi-gou-mai-hou-fu-zeng-nei-rong" id="fu-wu-qi-gou-mai-hou-fu-zeng-nei-rong"></a>
 
 {% hint style="success" %}
 * 附赠存储盘50G
@@ -14,7 +14,7 @@
 * 如要需要向我询问可以免费提供**CMI**插件，原本ess插件需要**10+插件配合，用了**CMI只需要2个解决
 {% endhint %}
 
-## 服务器须知 <a id="&#x670D;&#x52A1;&#x5668;&#x987B;&#x77E5;"></a>
+## 服务器须知 <a href="fu-wu-qi-xu-zhi" id="fu-wu-qi-xu-zhi"></a>
 
 {% hint style="success" %}
 * 主机为5900X 4.2-4.8Ghz
@@ -22,4 +22,3 @@
 * 你所购买到的服务器为纯独享资源
 * 在购买过后24小时内可退80%
 {% endhint %}
-

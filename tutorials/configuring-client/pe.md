@@ -6,11 +6,21 @@ description: 这里讲述了基岩版该如何配置
 
 ## 首先进入QQ群下载基岩版
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ## 注册皮肤站账户
 
-{% page-ref page="../reg-skin-station.md" %}
+{% content-ref url="../reg-skin-station.md" %}
+[reg-skin-station.md](../reg-skin-station.md)
+{% endcontent-ref %}
 
 ## 添加服务器IP等信息
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ### 或手动添加IP信息
 
@@ -20,7 +30,6 @@ mc.vlssu.cn   端口默认即可（19132）
 
 ## 使用皮肤站账户登录
 
-![&#x70B9;&#x51FB;\[&#x4F7F;&#x7528;Mojang&#x8D26;&#x6237;&#x767B;&#x5F55;\]](../../.gitbook/assets/2wninopvrssw9-20-zz9-v.png)
+![点击\[使用Mojang账户登录\]](../../.gitbook/assets/2WNINOPVRSSW9\~\~20@ZZ9\(V.png)
 
-![&#x8F93;&#x5165;&#x4F60;&#x6CE8;&#x518C;&#x7684;&#x76AE;&#x80A4;&#x7AD9;&#x8D26;&#x6237;&#x5373;&#x53EF;&#x8FDB;&#x5165;](../../.gitbook/assets/h10oea-i2h-a_w-u7tb-tj.png)
-
+![输入你注册的皮肤站账户即可进入](../../.gitbook/assets/H10OEA{I2H{A_W}U7TB\`\(TJ.png)

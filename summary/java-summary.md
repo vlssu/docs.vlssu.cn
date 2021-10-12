@@ -22,15 +22,18 @@ Vlssu.cn
 {% hint style="success" %}
 皮肤站登陆进服务器需求！
 
-我们服务器有皮肤站，使用我们的皮肤站账号进入可享受进服不输密码/皮肤   \(方便管理盗版也给没有正版的玩家体验正版一般的体验\)
+我们服务器有皮肤站，使用我们的皮肤站账号进入可享受进服不输密码/皮肤   (方便管理盗版也给没有正版的玩家体验正版一般的体验)
 
-我们皮肤站 [**skin.vlssu.com**](https://skin.vlssu.com/)
+我们皮肤站 [**skin.vlssu.com**](https://skin.vlssu.com)
 
 * 在使用我们的皮肤站时请用皮肤站登陆
 * 在使用时可能会出现问题（这些都不是服务器的问题是玩家本身）
 {% endhint %}
 
-{% page-ref page="../tutorials/reg-skin-station.md" %}
+{% content-ref url="../tutorials/reg-skin-station.md" %}
+[reg-skin-station.md](../tutorials/reg-skin-station.md)
+{% endcontent-ref %}
 
-{% page-ref page="../tutorials/configuring-client/" %}
-
+{% content-ref url="../tutorials/configuring-client/" %}
+[configuring-client](../tutorials/configuring-client/)
+{% endcontent-ref %}

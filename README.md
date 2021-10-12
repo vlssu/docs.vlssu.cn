@@ -4,6 +4,10 @@ description: 目前文档仍在陆续完善中！
 
 # 欢迎游玩我们的服务器
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 本服务器为公益服，玩家物品丢失没有义务负责、但我们尽可能为你恢复
 
 {% hint style="info" %}
@@ -11,7 +15,7 @@ description: 目前文档仍在陆续完善中！
 
 如果有什么意见或想法都可向我们提提出，可以进入我们的QQ群来提出你的建议
 
-也可以来我们的QQ群唠嗑哦~\(有什么不会的也可以来群里提问，但请不要在百度中随便一查就能查到的过来问。。。\)
+也可以来我们的QQ群唠嗑哦\~(有什么不会的也可以来群里提问，但请不要在百度中随便一查就能查到的过来问。。。)
 {% endhint %}
 
 {% hint style="danger" %}
@@ -20,7 +24,10 @@ description: 目前文档仍在陆续完善中！
 可能你会觉得让我麻烦一点点都是好的。。。或许你可以试试对我们的影响有多大
 {% endhint %}
 
-{% page-ref page="summary/java-summary.md" %}
+{% content-ref url="summary/java-summary.md" %}
+[java-summary.md](summary/java-summary.md)
+{% endcontent-ref %}
 
-{% page-ref page="summary/pe-summary/" %}
-
+{% content-ref url="summary/pe-summary/" %}
+[pe-summary](summary/pe-summary/)
+{% endcontent-ref %}
