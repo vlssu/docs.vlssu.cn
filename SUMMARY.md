@@ -16,7 +16,7 @@
   * [空岛服务器](summary/server/bskyblock.md)
   * [快照服务器](summary/server/beta-survive.md)
   * [模组服务器](summary/server/mod-server.md)
-  * [模组生存服](summary/server/mo-zu-sheng-cun-fu.md)
+  * [模组生存服](summary/server/bmss.md)
 
 ## 使用皮肤站注册游玩教程 <a href="tutorials" id="tutorials"></a>
 

@@ -46,8 +46,8 @@ description: 进入我们服务器请遵守、查看以下内容
 [creative.md](creative.md)
 {% endcontent-ref %}
 
-{% content-ref url="mo-zu-sheng-cun-fu.md" %}
-[mo-zu-sheng-cun-fu.md](mo-zu-sheng-cun-fu.md)
+{% content-ref url="bmss.md" %}
+[bmss.md](bmss.md)
 {% endcontent-ref %}
 
 {% content-ref url="bskyblock.md" %}
