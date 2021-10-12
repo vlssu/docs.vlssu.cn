@@ -4,7 +4,9 @@ description: 部分人不太知道皮肤站的注册流程，我将在这里讲�
 
 # 如何注册皮肤站
 
-{% embed url="https://skin.vlssu.com" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ### 首先进入皮肤站
 
