@@ -2,25 +2,25 @@
 
 ## 登入失败：无效会话（请尝试重启游戏及启动器） <a href="deng-ru-shi-bai-wu-xiao-hui-hua-qing-chang-shi-zhong-qi-you-xi-ji-qi-dong-qi" id="deng-ru-shi-bai-wu-xiao-hui-hua-qing-chang-shi-zhong-qi-you-xi-ji-qi-dong-qi"></a>
 
-![](.gitbook/assets/5NSYX7\(]$%\(OKS_U@J\(J7I9.png)
+![](.gitbook/assets/登入失败：无效会话（请尝试重启游戏及启动器）.png)
 
 （原因：玩家与认证服务器断开导致）解决：将启动器上的账户删除并重新添加账户再进入游戏即可解决 PS:**首先你需要先确定你是用皮肤站登陆进入**
 
 ## 无法验证用户名 <a href="wu-fa-yan-zheng-yong-hu-ming" id="wu-fa-yan-zheng-yong-hu-ming"></a>
 
-![](.gitbook/assets/BH8E\[3JF$CF{0F0HSE7{7O9.png)
+![](.gitbook/assets/无法验证用户名.png)
 
 一般来说是你没使用皮肤账号登陆导致的(**使用正版登陆导致的**）
 
 ## Unknown host（**界面显示无法解析主机**） <a href="unknownhost-jie-mian-xian-shi-wu-fa-jie-xi-zhu-ji" id="unknownhost-jie-mian-xian-shi-wu-fa-jie-xi-zhu-ji"></a>
 
-[【win7百度版教程链接】 (opens new window)](https://jingyan.baidu.com/article/f71d60375584591ab641d13c.html)[【win10百度版教程链接】 (opens new window)](https://jingyan.baidu.com/article/2fb0ba40833b0a00f2ec5f28.html)
+[【win7百度版教程链接】 ](https://jingyan.baidu.com/article/f71d60375584591ab641d13c.html)[【win10百度版教程链接】](https://jingyan.baidu.com/article/2fb0ba40833b0a00f2ec5f28.html)
 
-![](.gitbook/assets/JF61S$LK\(\[\_\`{@ESF0E0UFH.png)
+![](.gitbook/assets/Unknown-host.png)
 
-![](.gitbook/assets/NU\`2B\~A$5OH\)KULHP\(]IHZD.png)
+![](.gitbook/assets/无法解析主机名.png)
 
-![](.gitbook/assets/J3ZFK{\[2\)FSW01XB5828BN8.png)
+![](.gitbook/assets/io.netty.png)
 
 * 一者服务器没开、二本地设置问题、三是你的DNS的问题、四网络设置问题
 
@@ -39,7 +39,7 @@
 
 ## 认证服务器处于宕机状态中。请稍后重试抱歉！ <a href="ren-zheng-fu-wu-qi-chu-yu-dang-ji-zhuang-tai-zhong-qing-shao-hou-zhong-shi-bao-qian" id="ren-zheng-fu-wu-qi-chu-yu-dang-ji-zhuang-tai-zhong-qing-shao-hou-zhong-shi-bao-qian"></a>
 
-![](.gitbook/assets/HLH4\(\[4K2YYCTDV_\)\)\(HOYH.png)
+![](.gitbook/assets/登入失败身份验证目前正在停机维护.png)
 
 * 更新JAVA并启用它，这是你JAVA版本过低导致的，可以[**\[点我下载最新JAVA\]** (opens new window)](https://en.vessoft.com/software/windows/download/java)
 * 或者将启动器上的账户删除并重新添加账户再进入游戏
@@ -47,7 +47,7 @@
 
 ## Error occurred while contaoting login servers, are they down? <a href="error-occurred-while-contaoting-login-servers-are-they-down" id="error-occurred-while-contaoting-login-servers-are-they-down"></a>
 
-![](.gitbook/assets/{T]CR\[M$MCRXM$1G%W\[9L\`H.png)
+![](.gitbook/assets/Error-occurred.png)
 
 * 你需要重新登录启动器上的账户并重启游戏即可
 
