@@ -28,4 +28,36 @@ description: 进入我们服务器请遵守、查看以下内容
 【骂人、刷屏】惩罚措施如下：
 
 1. 第一次发现【骂人、刷屏】禁言（5天）
-2. 第二次发现【骂人、刷屏】禁言（永久禁言）
+2. 第二次发现【骂人、刷屏】禁言（永久禁言）[登陆大厅](https://app.gitbook.com/s/-Mc2uvjgS1x1nwCBb6TG/c/hefTnDpnXcd18F3dNlyq/summary/server/login)[创造服务器](https://app.gitbook.com/s/-Mc2uvjgS1x1nwCBb6TG/c/hefTnDpnXcd18F3dNlyq/summary/server/creative)[空岛服务器](https://app.gitbook.com/s/-Mc2uvjgS1x1nwCBb6TG/c/hefTnDpnXcd18F3dNlyq/summary/server/bskyblock)[快照服务器](https://app.gitbook.com/s/-Mc2uvjgS1x1nwCBb6TG/c/hefTnDpnXcd18F3dNlyq/summary/server/beta-survive)[模组服务器](https://app.gitbook.com/s/-Mc2uvjgS1x1nwCBb6TG/c/hefTnDpnXcd18F3dNlyq/summary/server/mod-server)[模组生存服](https://app.gitbook.com/s/-Mc2uvjgS1x1nwCBb6TG/c/hefTnDpnXcd18F3dNlyq/summary/server/mo-zu-sheng-cun-fu)
+
+{% hint style="info" %}
+服务器各服文档
+{% endhint %}
+
+{% content-ref url="login.md" %}
+[login.md](login.md)
+{% endcontent-ref %}
+
+{% content-ref url="survive.md" %}
+[survive.md](survive.md)
+{% endcontent-ref %}
+
+{% content-ref url="creative.md" %}
+[creative.md](creative.md)
+{% endcontent-ref %}
+
+{% content-ref url="mo-zu-sheng-cun-fu.md" %}
+[mo-zu-sheng-cun-fu.md](mo-zu-sheng-cun-fu.md)
+{% endcontent-ref %}
+
+{% content-ref url="bskyblock.md" %}
+[bskyblock.md](bskyblock.md)
+{% endcontent-ref %}
+
+{% content-ref url="beta-survive.md" %}
+[beta-survive.md](beta-survive.md)
+{% endcontent-ref %}
+
+{% content-ref url="mod-server.md" %}
+[mod-server.md](mod-server.md)
+{% endcontent-ref %}
