@@ -4,7 +4,7 @@ description: 这里讲述了基岩版该如何配置
 
 # PE/BE/基岩版进入方法
 
-## [QQ群 - VLssu公益服](https://jq.qq.com/?\_wv=1027\&k=0anjDlw3)首先进入QQ群下载基岩版
+## [基岩版进服直链](minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132)首先进入QQ群下载基岩版
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
@@ -18,8 +18,8 @@ description: 这里讲述了基岩版该如何配置
 
 ## 添加服务器IP等信息
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### 或手动添加IP信息
