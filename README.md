@@ -8,7 +8,7 @@ description: 目前文档仍在陆续完善中！
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-本服务器为公益服，玩家物品丢失没有义务负责、但我们尽可能为你恢复
+[QQ群 - VLssu公益服](https://jq.qq.com/?\_wv=1027\&k=0anjDlw3)本服务器为公益服，玩家物品丢失没有义务负责、但我们尽可能为你恢复
 
 {% hint style="info" %}
 我们服务器还在不断完善，让我们一起建设美好的社区

@@ -4,7 +4,7 @@ description: 给不看版的人一个简洁
 
 # PE/BE/基岩版进服地址
 
-## PE/BE/基岩版服务器地址（IP）
+## [基岩版进服直链](minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132)PE/BE/基岩版服务器地址（IP）
 
 服务器版本为最新稳定版(实际与java服务器版本同步，因PE与PC同步后版本)
 

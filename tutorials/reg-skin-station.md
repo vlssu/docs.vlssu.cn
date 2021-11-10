@@ -8,7 +8,7 @@ description: 部分人不太知道皮肤站的注册流程，我将在这里讲�
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-### 首先进入皮肤站
+### [VLssuSkin皮肤站](https://skin.vlssu.com)首先进入皮肤站
 
 ![](../.gitbook/assets/\)\[D}$@M60NRLXNBJQ23BN]F.png)
 
