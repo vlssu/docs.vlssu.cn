@@ -6,12 +6,6 @@
 
 （原因：玩家与认证服务器断开导致）解决：将启动器上的账户删除并重新添加账户再进入游戏即可解决 PS:**首先你需要先确定你是用皮肤站登陆进入**
 
-## 无法验证用户名 <a href="wu-fa-yan-zheng-yong-hu-ming" id="wu-fa-yan-zheng-yong-hu-ming"></a>
-
-![](.gitbook/assets/无法验证用户名.png)
-
-一般来说是你没使用皮肤账号登陆导致的(**使用正版登陆导致的**）
-
 ## Unknown host（**界面显示无法解析主机**） <a href="unknownhost-jie-mian-xian-shi-wu-fa-jie-xi-zhu-ji" id="unknownhost-jie-mian-xian-shi-wu-fa-jie-xi-zhu-ji"></a>
 
 [【win7百度版教程链接】 ](https://jingyan.baidu.com/article/f71d60375584591ab641d13c.html)[【win10百度版教程链接】](https://jingyan.baidu.com/article/2fb0ba40833b0a00f2ec5f28.html)
@@ -51,9 +45,16 @@
 
 * 你需要重新登录启动器上的账户并重启游戏即可
 
-## Not authenticated with Minecraft.net
+## 无法验证用户名
 
-![](.gitbook/assets/Not-authenticated-with-Minecraft.net.png)
+* Not authenticated with Minecraft.net
+* 登入失败:Null
+
+![无法验证用户名](.gitbook/assets/无法验证用户名.png)
+
+![Not authenticated with Minecraft.net](.gitbook/assets/Not-authenticated-with-Minecraft.net.png)
+
+![登入失败:Null](.gitbook/assets/登入失败Null.png)
 
 * 请使用**正版账户**或**微软账户**（需购买JAVA版我的世界）
 * 或者使用我们 [**VLssuSKIN 皮肤站**](broken-reference) 进行登录（**离线用户注册账户并验证邮箱后**就可以和**正版一样游玩我们的服务器**）
