@@ -30,7 +30,7 @@
 ***
 
 * [常见问题](faq.md)
-* [关于赞助](guan-yu-zan-zhu.md)
+* [关于赞助](sponsor.md)
 * [VPS服务器购买](vps.md)
 * [服务器宣传片](https://www.bilibili.com/video/BV1yb411J7zw?zw)
 * [服务器整合包](https://cloud.vlssu.com/s/ZNCW)
