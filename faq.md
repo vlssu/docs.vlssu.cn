@@ -18,16 +18,22 @@
 
 * 一者服务器没开、二本地设置问题、三是你的DNS的问题、四网络设置问题
 
-1. 本地设置问题
+### 本地设置问题
 
 * 先进入一遍单人世界，进入退出再进多人，这样就可以解决你的问题了.
 
-1. DNS问题
+### DNS问题
 
 * 首先你要找到DNS在哪修改（自行百度），选中 `Internet 协议版本 4（TCP/IPv4）`，再点 `属性`，选中 `使用下面的DNS服务器地址`，填写首选DNS服务器（根据你的网络服务提供商以及所在的城市百度搜索）和备用DNS服务器推荐：
+
+```
+223.5.5.5
+114.114.114.114
+```
+
 * 然后点击 确定。至此DNS修改完毕
 
-1. 网络设置问题
+### 网络设置问题
 
 * 打开电脑的CMD（管理员）输入`netsh winsock reset`（按回车键执行命令），然后重启电脑
 
@@ -41,7 +47,7 @@
 
 ## Error occurred while contaoting login servers, are they down? <a href="error-occurred-while-contaoting-login-servers-are-they-down" id="error-occurred-while-contaoting-login-servers-are-they-down"></a>
 
-![](.gitbook/assets/Error-occurred.png)
+![Error occurred while contaoting login servers, are they down?](.gitbook/assets/Error-occurred.png)
 
 * 你需要重新登录启动器上的账户并重启游戏即可
 
