@@ -9,7 +9,7 @@ description: 客户端也是一个重灾区，我将会在这里列举在这
 * 正版无需注册！**(但最好还是注册下，直接登陆皮肤站就注册了)**
 
 {% hint style="warning" %}
-### 我们皮肤站的认证服务器地址
+#### 我们皮肤站的认证服务器地址
 {% endhint %}
 
 ```
@@ -27,4 +27,3 @@ https://skin.vlssu.com/api/yggdrasil
 {% content-ref url="pcl.md" %}
 [pcl.md](pcl.md)
 {% endcontent-ref %}
-

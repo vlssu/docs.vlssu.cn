@@ -51,6 +51,13 @@
 
 * 你需要重新登录启动器上的账户并重启游戏即可
 
+## Not authenticated with Minecraft.net
+
+![](.gitbook/assets/Not-authenticated-with-Minecraft.net.png)
+
+* 请使用**正版账户**或**微软账户**（需购买JAVA版我的世界）
+* 或者使用我们 [**VLssuSKIN 皮肤站**](broken-reference) 进行登录（**离线用户注册账户并验证邮箱后**就可以和**正版一样游玩我们的服务器**）
+
 ## 如果没有你遇到的问题可以在QQ群中询问我们 <a href="ru-guo-mei-you-ni-yu-dao-de-wen-ti-ke-yi-zai-xia-fang-fu-dai-jie-tu-ping-lun" id="ru-guo-mei-you-ni-yu-dao-de-wen-ti-ke-yi-zai-xia-fang-fu-dai-jie-tu-ping-lun"></a>
 
 {% content-ref url="broken-reference" %}
