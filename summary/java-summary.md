@@ -7,7 +7,7 @@ description: 给不看版的人一个简洁
 ## JAVA版服务器地址（IP）
 
 {% hint style="info" %}
-mc.vlssu.cn
+**mc.vlssu.cn**
 {% endhint %}
 
 {% hint style="warning" %}
