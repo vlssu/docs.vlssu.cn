@@ -4,7 +4,7 @@ description: 进入我们服务器请遵守、查看以下内容
 
 # 各服文档
 
-## 注意事项 <a href="zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
+## 注意事项 <a href="#zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
 
 1. 友好（禁止骂人、挑衅、故意击杀多次、火烧水淹等），【举报成功造成损失随举报者意进行赔偿并封禁7天，没有第二次机会】
 2. 禁止偷东西【无心之过封三天没有第二次机会】
@@ -18,7 +18,7 @@ description: 进入我们服务器请遵守、查看以下内容
 10. 禁止大量养殖动物，利用游戏特性将生物卡在同一格且生物数量超过一定量的，全部清除。【多层牧场只算最大的一层面积】（安全标准：每两格面积一只动物）
 11. 不可利用规定钻漏洞或碰瓷其他玩家，不可恶人先告状寻衅滋事【此类情况封三天先】
 
-## 惩罚措施 <a href="cheng-fa-cuo-shi" id="cheng-fa-cuo-shi"></a>
+## 惩罚措施 <a href="#cheng-fa-cuo-shi" id="cheng-fa-cuo-shi"></a>
 
 【熊、破坏、随便拿他人东西】惩罚措施如下：
 
@@ -28,7 +28,7 @@ description: 进入我们服务器请遵守、查看以下内容
 【骂人、刷屏】惩罚措施如下：
 
 1. 第一次发现【骂人、刷屏】禁言（5天）
-2. 第二次发现【骂人、刷屏】禁言（永久禁言）[登陆大厅](login.md)[创造服务器](creative.md)[空岛服务器](bskyblock.md)[快照服务器](beta-survive.md)[模组服务器](mod-server.md)[模组生存服](https://app.gitbook.com/s/-Mc2uvjgS1x1nwCBb6TG/c/hefTnDpnXcd18F3dNlyq/summary/server/mo-zu-sheng-cun-fu)
+2. 第二次发现【骂人、刷屏】禁言（永久禁言）
 
 {% hint style="info" %}
 服务器各服文档
