@@ -4,7 +4,7 @@ description: 这里讲述了基岩版该如何配置
 
 # PE/BE/基岩版进入方法
 
-## [基岩版进服直链](minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132)首先进入QQ群下载基岩版
+## 首先进入QQ群下载基岩版
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

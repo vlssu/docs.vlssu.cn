@@ -10,7 +10,7 @@ description: 部分人不太知道皮肤站的注册流程，我将在这里讲�
 
 ### 首先进入皮肤站
 
-![](../.gitbook/assets/\)\[D}$@M60NRLXNBJQ23BN]F.png)
+![](../.gitbook/assets/tm1.jpg)
 
 ### 进行注册
 
@@ -22,7 +22,7 @@ description: 部分人不太知道皮肤站的注册流程，我将在这里讲�
 **注意！！** 正版无需注册，直接输入正版账户就完成了注册（并且皮肤、ID都会帮你配置好）
 {% endhint %}
 
-![](../.gitbook/assets/763TUGAW$\_NP7]V1\_J\(IO5M.png)
+![](../.gitbook/assets/tm2.jpg)
 
 {% hint style="danger" %}
 你需要验证邮箱，否则你将无法使用账户

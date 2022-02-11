@@ -1,9 +1,5 @@
 # 模组服务器
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 此服务器版本为1.16.5(建议分配2-4G内存)
 {% endhint %}
@@ -17,19 +13,16 @@
 6. 未提到的并不代表可以
 {% endhint %}
 
-### 注意事项 <a href="zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
+### 注意事项 <a href="#zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
 
 {% hint style="danger" %}
 玩家之间不可恶意掠夺，发现一个直接封
 {% endhint %}
 
-### 服务器所用MOD <a href="fu-wu-qi-suo-yong-mod" id="fu-wu-qi-suo-yong-mod"></a>
+### 服务器所用MOD <a href="#fu-wu-qi-suo-yong-mod" id="fu-wu-qi-suo-yong-mod"></a>
 
 {% hint style="success" %}
 自己去整合包里面看吧，提供起来太累了
 
 再加上我们模组服换周目频繁，实在干不动了
 {% endhint %}
-
-
-
